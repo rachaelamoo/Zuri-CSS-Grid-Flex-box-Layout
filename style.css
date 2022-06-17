@@ -1,0 +1,11 @@
+
+body{
+  background-color: mintcream;
+  align-items: center;
+}
+button{
+  background-color: #385fad;
+  border-radius: 10px; 
+  align-text: center;
+  padding: 15px;
+}
